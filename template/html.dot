@@ -4,12 +4,12 @@
 <title></title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
-<body style="position: relative; font-family: Helvetica Neue, arial;" dir="ltr">
+<body style="position: relative; font-family:'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif;" dir="ltr">
 
   <table width="100%">
     <tr>
       <td style="text-align: center; padding: 5px 0px 5px;">
-        <span style="color: #999999; font-size: 10px; font-family: Helvetica Neue, arial;">
+        <span style="color: #999999; font-size: 10px; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif;">
 
         </span>
       </td>
@@ -17,50 +17,73 @@
     <tr>
       <td align="center" style="padding-bottom: 40px;">
         <table width="604" cellspacing="0" cellpadding="0" class="root" style="border-collapse: collapse; border-radius: 5px; -webkit-border-radius: 5px; overflow: hidden; background-color: #fff;" border="0">
-          <p style="color: #a6a6a6; display: block; font-size: 10px; font-family: Helvetica Neue, arial; margin: 30px 0;">Click <a style="color:#6699cc;">here</a> if you have trouble reading this email. English version can be found <a style="color:#6699cc;">here</a>.</p>
+          <p style="color: #a6a6a6; display: block; font-size: 10px; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; margin: 30px 0;">Click <a style="color:#6699cc;">here</a> if you have trouble reading this email. English version can be found <a style="color:#6699cc;">here</a>.</p>
 
           <!-- header -->
           <tr>
             <td background="/images/tantan-email-header.png" valign="bottom" width="604" height="480" style="text-align: center;">
               <img src="/images/tantan-logo.png">
-              <h1 style="color: #d44831; font-size: 60px; font-weight: 100; text-align: center; font-family: Helvetica Neue, arial; margin: 8px 0px 8px 0px;">Tantan</h1>
-              <h4 style="color: #424242; font-size: 24px; font-weight: 100; text-align: center; font-family: Helvetica Neue, arial; margin: 0px 0px 50px 0px;">Meet interesting people around you</h4>
-              <table bgcolor="#3793d6" style="width: 260px; margin: 10px 0px; background: #d44831; border-radius: 4px; overflow: hidden; display: inline-block;">
+              <h1 style="color: #d44831; font-size: 60px; font-weight: 100; text-align: center; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; margin: 8px 0px 8px 0px;">Tantan</h1>
+              <h4 style="color: #424242; font-size: 24px; font-weight: 100; text-align: center; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; margin: 0px 0px 50px 0px;">Meet interesting people around you</h4>
+              <!-- <table bgcolor="#3793d6" style="width: 260px; margin: 10px 0px; background: #d44831; border-radius: 4px; overflow: hidden; display: inline-block;">
                 <tr>
-                  <td style="text-align: center; padding: 12px 60px; color: #ffffff;"><a style="font-family:  Helvetica Neue, arial; text-decoration: none; color: #ffffff; font-size: 16px;" href="http://p1.com/device-route">Get the app now</a>
+                  <td style="text-align: center; padding: 12px 60px; color: #ffffff;"><a style="font-family:'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; text-decoration: none; color: #ffffff; font-size: 16px;" href="http://p1.com/device-route">Get the app now</a>
+                  </td>
+                </tr>
+              </table> -->
+              <table bgcolor="#3793d6" style="width: 220px; margin: 10px 10px 80px 10px; background: #007aff; border-radius: 4px; overflow: hidden; display: inline-block;">
+                <tr>
+                  <td style="text-align: center; padding: 12px 30px; color: #ffffff;"><a style="font-family:'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; text-decoration: none; color: #ffffff; font-size: 16px;" href="http://p1.com/device-route">Download for iOS</a>
                   </td>
                 </tr>
               </table>
-              <p style="color: #424242; font-size: 14px; font-weight: 100; text-align: center; font-family: “Helvetica Neue”, arial; margin: 0px 0px 30px 0px;">Available for free on iOS and Android</p>
+              <table bgcolor="#3793d6" style="width: 220px; margin: 10px 10px 80px 10px; background: #4dd865; border-radius: 4px; overflow: hidden; display: inline-block;">
+                <tr>
+                  <td style="text-align: center; padding: 12px 30px; color: #ffffff;"><a style="font-family:'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; text-decoration: none; color: #ffffff; font-size: 16px;" href="http://p1.com/device-route">Download for Android</a>
+                  </td>
+                </tr>
+              </table>
+
+              <!-- <p style="color: #424242; font-size: 14px; font-weight: 100; text-align: center; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; margin: 0px 0px 30px 0px;">Available for free on iOS and Android</p> -->
             </td>
           </tr>
 
           <!-- content -->
           <!-- body -->
-
+          <tr>
+            <td>
+              <table style="padding:30px 60px 0px 60px;">
+                <tr>
+                  <td>
+                    <p style="color: #636363; font-family:'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; font-weight: 200; ">For 6 years now we have been collecting amazing pictures from creative people, photographers, designers, fashion enthusiats. We crafted an entirely new browse feature, and tuned our picture sharing experience, to let people with innate talent express themselves as they intend ti.</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
 
           <tr>
             <td bgcolor="#ffffff" style="color: #424242; background-color:#ffffff; padding:30px 60px 70px 60px;">
-              <table style="margin-bottom: 90px;">
+              <table style="margin-bottom: 60px;">
                 <tr>
                   <td valign="middle" style="font-size: 12px; padding-left: 0px; padding-right: 70px;">
                     <img width="60" height="60" src="/images/icon-location.png"></img>
                   </td>
                   <td>
                     <h3 style="font-weight: 200; font-family: Helvetica Neue, arial; font-size: 24px; margin: 30px 0;">Find people nearby</h3>
-                    <p style="color: #636363; font-family: Helvetica Neue, arial; font-weight: 200; ">Tantan will suggest you a list of people that are close to you, real time.</p>
+                    <p style="color: #636363; font-family:'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; font-weight: 200; ">Tantan will suggest you a list of people that are close to you, real time.</p>
                   </td>
                 </tr>
               </table>
 
-              <table style="margin-bottom: 90px;">
+              <table style="margin-bottom: 60px;">
                 <tr>
                   <td valign="middle" style="font-size: 12px; padding-left: 0px; padding-right: 70px;">
                     <img width="60" src="/images/icon-flip.png"></img>
                   </td>
                   <td>
-                    <h3 style="font-weight: 200; font-family: Helvetica Neue, arial; font-size: 24px; margin: 30px 0;">Swipe on suggested people</h3>
-                    <p style="color: #636363; font-family: Helvetica Neue, arial; font-weight: 200;">You can like or pass on people that are suggested with a simple swipe. People you passed on will never know about it.</p>
+                    <h3 style="font-weight: 200; font-family:'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; font-size: 24px; margin: 30px 0;">Swipe on suggested people</h3>
+                    <p style="color: #636363; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; font-weight: 200;">You can like or pass on people that are suggested with a simple swipe. People you passed on will never know about it.</p>
                   </td>
                 </tr>
               </table>
@@ -71,8 +94,8 @@
                     <img width="60" height="60" src="/images/icon-chat.png"></img>
                   </td>
                   <td>
-                    <h3 style="font-weight: 200; font-family: Helvetica Neue, arial; font-size: 24px; margin: 30px 0;">You found a match!</h3>
-                    <p style="color: #636363; font-family: Helvetica Neue, arial; font-weight: 200; ">When someone you liked likes you too, you have a match! You can then start a conversation. You won’t receive messages from strangers.</p>
+                    <h3 style="font-weight: 200; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; font-size: 24px; margin: 30px 0;">You found a match!</h3>
+                    <p style="color: #636363; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; font-weight: 200; ">When someone you liked likes you too, you have a match! You can then start a conversation. You won’t receive messages from strangers.</p>
                   </td>
                 </tr>
               </table>
@@ -83,7 +106,7 @@
 
 
           <tr>
-            <td style="font-size: 18px; font-weight: 200; border-top: 1px solid #e5e5e5; padding-top: 35px; padding-bottom: 35px;">
+            <td style="font-size: 18px; font-weight: 200; border-top: 1px solid #e5e5e5; padding-top: 35px; padding-bottom: 35px; font-family:'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif;">
             <a style="color:#6699cc; margin-right: 85px;">Tantan on AppStore</a>
             <a style="color:#6699cc; margin-right: 80px">Tantan for Android</a>
             <a href="http://tantanapp.com" style="color:#6699cc; text-decoration: none;">tantanapp.com</a>
@@ -96,7 +119,7 @@
               <table>
                 <tr>
                   <td style="padding-right: 40px;">
-                    <p style="color: #a6a6a6; display: inline; font-size: 10px; font-family: &#039;Helvetica Neue&#039;, arial; padding-bottom: 20px;">
+                    <p style="color: #a6a6a6; display: inline; font-size: 10px; font-family: 'Helvetica Neue', arial, 'Hiragino Sans GB', 'Microsoft Yahei', sans-serif; padding-bottom: 20px;">
                      Copyright © 2014 Tantan, All rights reserved.
                    </p>
                   </td>
